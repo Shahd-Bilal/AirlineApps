@@ -1,7 +1,7 @@
 # AirlineManagementSystem
 Team members : 
 1. Shahd Bilal
-2. Jannat Dawabsheh
+2. Jannat Bassam Dawabsheh
 3. Rawan
 4. Aya
 5. Misam
