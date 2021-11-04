@@ -11,9 +11,10 @@ My role is to Estimates size of backlog items translate backlog items into engin
 and evaluation of technical feasibility implementation of backlog items. 
 
 3. Rawan: 
-4. Aya:tester.
+4. Aya:Tester.
  I can be able to communicate clearly, accurately and demonstrate a high capacity of comprehension. Communication skill here includes activities such as reading and understanding specifications, translating those into structured test cases, reporting bugs and writing clear and concise reports to management.
-5. Misam: 
+5. Misam: Designer.
+
 6. Rand:  
 ```
 
