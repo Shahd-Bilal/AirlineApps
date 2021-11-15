@@ -22,10 +22,14 @@ and evaluation of technical feasibility implementation of backlog items.
 Internal stakeholders: These individuals or organizations are involved in the project from within the organization.
 
 ```bash
-* The project team: Shahd, Jannat, Rawan, Aya, Misam, Rand.
+* The project team: 
+Shahd: Scrum master,Desiner.
+Jannat: Developer.
+Rawan: Back end developer.
+Aya: Tester.
+Misam: Designer.
+Rand: Front end developer.
 * The project Maneger: Nathan Peter.
-* The project Sponsor: Jack Seth.
-* The project Business Analyst: John Lawrance.
 ```
 
 External stakeholders: External stakeholders are affected by the project’s outcome even though they are not involved in the project directly.
