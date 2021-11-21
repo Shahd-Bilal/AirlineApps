@@ -45,9 +45,14 @@ https://BurndownForTrello.com/share/gxfen0wffw
 
 
 # SprintReview
-اجتماع لمناقشة ما تم انجازه في السبرينت الاولى وما سيتم انجازه في السبرينت القادم
+اجتماع لمناقشة ما تم انجازه في السبرينت الاولى وما سيتم انجازه في السبرينت القادمة
 
 ![SprintReview](https://user-images.githubusercontent.com/73139384/142778247-00667aa3-36b1-4992-98ce-9865773aa3fb.png)
+
+# Daily Scrums 
+اجتماع لمناقشة ما تم انجازه في ال24 ساعه السابقة وما سيتم انجازه في ال24 ساعه القادمة ومناقشة المشاكل التي واجهتنا
+جزء من اللقاء : https://github.com/Shahd-Bilal/AirlineManagementSystem/blob/main/daily%20meeting.mp4
+![image](https://user-images.githubusercontent.com/73139384/142779064-570689cf-5167-41d9-8428-7f121f08d9aa.png)
 
 
 # Software Requirements for Airline Management system :
