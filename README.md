@@ -43,7 +43,7 @@ External stakeholders: External stakeholders are affected by the project’s out
 https://BurndownForTrello.com/share/gxfen0wffw
 ```bash
 اجتماع لمناقشة ما تم انجازه في السبرينت الاولى وما سيتم انجازه في السبرينت القادم
-![SprintReview](https://user-images.githubusercontent.com/73139384/142777770-a19764d9-3817-4d14-a1ea-6b5ef376467a.png)
+
 
 
 ```
