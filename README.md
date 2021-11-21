@@ -41,6 +41,11 @@ External stakeholders: External stakeholders are affected by the project’s out
 ```
 # Burndown Chart :
 https://BurndownForTrello.com/share/gxfen0wffw
+```bash
+اجتماع لمناقشة ما تم انجازه في السبرينت الاولى وما سيتم انجازه في السبرينت القادم
+![SprintReview](https://user-images.githubusercontent.com/73139384/142777770-a19764d9-3817-4d14-a1ea-6b5ef376467a.png)
 
+
+```
 # Software Requirements for Airline Management system :
 https://docs.google.com/document/d/1l_JvyeFo_B4-TuikvGSX5TiTJMwSfwfQ1HZHt2A5Wi0/edit#heading=h.r88qbziiouy
