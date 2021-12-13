@@ -51,6 +51,9 @@ https://BurndownForTrello.com/share/gxfen0wffw
 # Burndown Chart for the second sprint :
 https://BurndownForTrello.com/share/gxfen0wffw
 
+![Capture](https://user-images.githubusercontent.com/73139384/145795034-ae67775e-f4e4-4758-8618-6862a4ce34eb.GIF)
+
+
 # SprintReview
 اجتماع لمناقشة ما تم انجازه في السبرينت الاولى وما سيتم انجازه في السبرينت القادمة
 
