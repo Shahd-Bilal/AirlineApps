@@ -47,6 +47,8 @@ External stakeholders: External stakeholders are affected by the project’s out
 # Burndown Chart for the first sprint :
 https://BurndownForTrello.com/share/gxfen0wffw
 
+![image](https://user-images.githubusercontent.com/73139384/145795417-63df3d13-fea1-48a2-b6a3-4fdc5f7c10a9.png)
+
 
 # Burndown Chart for the second sprint :
 https://BurndownForTrello.com/share/gxfen0wffw
