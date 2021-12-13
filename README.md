@@ -44,9 +44,12 @@ External stakeholders: External stakeholders are affected by the project’s out
 * The supplier: Narges company for supplying and Marketing for your products.
 ```
 
-# Burndown Chart :
+# Burndown Chart for the first sprint :
 https://BurndownForTrello.com/share/gxfen0wffw
 
+
+# Burndown Chart for the second sprint :
+https://BurndownForTrello.com/share/gxfen0wffw
 
 # SprintReview
 اجتماع لمناقشة ما تم انجازه في السبرينت الاولى وما سيتم انجازه في السبرينت القادمة
